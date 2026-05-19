@@ -1,0 +1,13 @@
+Ques. Project Overview
+Ans. Maine Machine Learning aur NLP use karke Spam Email Detection system banaya jo messages ko spam ya genuine classify karta hai.
+
+🔹 CountVectorizer Kya Karta Hai?
+Ans. Text data ko numerical format me convert karta hai jisse machine learning model process kar sake.
+
+🔹 Naive Bayes Kyu Use Kiya?
+Ans. Text classification tasks me fast aur efficient algorithm hai.
+
+🔹 Spam vs Ham
+Ans. Type  | 	Meaning
+     Spam	 |  Unwanted/Fake Message
+     Ham	 |  Genuine Message
